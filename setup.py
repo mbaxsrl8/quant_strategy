@@ -11,6 +11,7 @@ setup(
         "pandas>=2.0.0",
         "scipy>=1.10.0",
         "matplotlib>=3.7.0",
+        "seaborn>=0.13.0",
         "yfinance>=0.2.18",
         "pandas-datareader>=0.10.0",
     ],
